@@ -1,6 +1,8 @@
 # Clean Code Contest 2020
 
-Welcome to clean code contest 2020! This is template for java project.
+Welcome to clean code contest 2020! 
+比赛网址：
+http://www.nokia-sbell.com/CleanCode/CleanCodeMain
 A default project is already created with a preset docker environment in order to execute CI.
 Below software stacks are prepared in that docker image:
 - maven :3.6.0
