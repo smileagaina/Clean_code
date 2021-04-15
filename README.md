@@ -1,5 +1,4 @@
-# Clean Code Contest 2020
-
+# 诺基亚 Clean Code Contest 2020
 Welcome to clean code contest 2020! 
 比赛网址：
 http://www.nokia-sbell.com/CleanCode/CleanCodeMain
